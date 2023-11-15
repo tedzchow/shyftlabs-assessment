@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+yarn-error.log/
+npm-debug.log/
+
+# Compiled files
+dist/
+*.log
+*.tsbuildinfo
+*.map
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Application specific files
+*.sqlite
